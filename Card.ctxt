@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=c
+comment1.target=void\ setMatch(Card)
+comment1.text=used\ to\ obtain\ the\ matching\ card\ to\ this\ one
+comment2.params=front
+comment2.target=void\ setImage(java.lang.String)
+comment2.text=used\ to\ obtain\ the\ face\ up\ image\ of\ this\ card\ (and\ creates\ a\ random\ back\ image)
+comment3.params=
+comment3.target=void\ act()
+comment3.text=checks\ for\ and\ processes\ clicks\ on\ this\ card
+comment4.params=
+comment4.target=void\ flip()
+comment4.text=switches\ the\ image\ of\ this\ card\ between\ its\ two\ assigned\ images
+numComments=5
